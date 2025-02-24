@@ -7,6 +7,7 @@ f = 'Folk'
 e = 'Electronic'
 d = 'Dance'
 
+
 cds = [['Doggy Style', 'Snoop Doggy Dog', 1993, ['Hip Hop', 'Gangsta Rap', 'G Funk']],
     ['Walk On', 'Boston', 1994, [r]],
     ['Room On Fire', 'The Strokes', 2003, [r, 'Indie']],

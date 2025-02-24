@@ -25,6 +25,7 @@ def main():
         functions.add_music(my_music.vinyl, 'vinyl')
     else:
         print(f"Apologies, but outside collections are not yet supported. Sorry!")
+        return
 
     print(f"\nGreat! Now that we have your music, what would you like to do?")
     print(f"We can:")
