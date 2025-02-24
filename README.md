@@ -10,5 +10,6 @@ To more closely follow my workflow in this project:
 - *user_music.py* is a script which depends on user input to reccommend an album, search for albums, add albums, etc. *user_music.py* interacts with *functions.py*,
   which contains all of the functions I developed in the above JupyterNotebooks, as well as a few additional functions for re-factoring any redundant code.
   It also interacts with *my_music.py*, which is just a file that contains record of all of my physical media.
+- *Music_Data_Analysis.ipynb* is a later iteration of the project where I perform some basic exploratory data analysis on my collection
 
 Happy exploring!
